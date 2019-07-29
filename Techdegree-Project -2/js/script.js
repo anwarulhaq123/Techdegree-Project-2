@@ -75,6 +75,6 @@ function appendPageLinks(list) {
 		}
 	});
 }
-//call to 'sohwPage'function to show required number of students  per Page.
+//call to 'showPage'function to show required number of students  per Page.
 showPage(studentList, 1);
 appendPageLinks(studentList);
